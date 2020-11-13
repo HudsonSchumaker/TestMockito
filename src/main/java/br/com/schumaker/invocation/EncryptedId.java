@@ -2,7 +2,7 @@ package br.com.schumaker.invocation;
 
 /**
  *
- * @author hudson.schumaker
+ * @author Hudson Schumaker
  */
  
 @Data
